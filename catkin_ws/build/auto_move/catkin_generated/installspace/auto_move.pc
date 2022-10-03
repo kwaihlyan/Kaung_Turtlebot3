@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: auto_move
+Description: Description of auto_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
