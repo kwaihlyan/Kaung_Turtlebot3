@@ -2,9 +2,11 @@
 
 ## Kaung Wai Hlyan Lynn _ Qibitech Assignment
 
-> ROS version: Melodic.
-> simulation_ws contains the packages for turtlebot3.
-> catkin_ws contains the package for cpp file which automate the movement of turtlebot3.
+> ROS version: **Melodic**
+
+> **simulation_ws** contains the packages for turtlebot3.
+
+> **catkin_ws** contains the package for cpp file which automate the movement of turtlebot3.
 
 1) Open up a shell. `cd` into simulation_ws.
     ```
@@ -27,7 +29,7 @@ Rviz will open up. map used in this simulation is attained by scanning the stand
     source devel/setup.bash
     rosrun auto_move auto_move
     ```
-The auto_move executable is made by `catkin_make` the source file **src/auto_move.cpp**.
+The auto_move executable is made by `catkin_make` the source file, **src/auto_move.cpp**.
 The cpp file contain the code for automating the movement of turtlebot.
 The x,y and orientation data are put into three arrays, which then get updated each time the bot reaches its destination.
 
@@ -35,4 +37,4 @@ Press **Ctrl+C** to exit the program.
 
 Here is the [gdrive link](https://drive.google.com/drive/folders/1W3oiJiCde7q7NhrTX3gDkVxxuj_lzUmO) to screen records of gazebo, rviz, position data.
 
-`#0d1117`**Kaung Wai Hlyan Lynn**
+> **Kaung Wai Hlyan Lynn**
