@@ -1,3 +1,4 @@
+
 # Kaung_Turtlebot3
 
 ## Kaung Wai Hlyan Lynn _ Qibitech Assignment
@@ -35,6 +36,6 @@ The x,y and orientation data are put into three arrays, which then get updated e
 
 Press **Ctrl+C** to exit the program.
 
-Here is the [gdrive link](https://drive.google.com/drive/folders/1W3oiJiCde7q7NhrTX3gDkVxxuj_lzUmO) to screen records of gazebo, rviz, position data.
+Here is the [gdrive link](https://drive.google.com/drive/folders/1W3oiJiCde7q7NhrTX3gDkVxxuj_lzUmO) to screen records of gazebo, rviz and position data.
 
 > **Kaung Wai Hlyan Lynn**
