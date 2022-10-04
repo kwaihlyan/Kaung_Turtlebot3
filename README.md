@@ -2,7 +2,7 @@
 
 ## Kaung Wai Hlyan Lynn _ Qibitech Assignment
 
-> ROS version: Melodic
+> ROS version: Melodic.
 > simulation_ws contains the packages for turtlebot3.
 > catkin_ws contains the package for cpp file which automate the movement of turtlebot3.
 
