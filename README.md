@@ -1,8 +1,6 @@
 
 # Kaung_Turtlebot3
 
-## Kaung Wai Hlyan Lynn _ Qibitech Assignment
-
 > ROS version: **Melodic**
 
 > **simulation_ws** contains the packages for turtlebot3.
